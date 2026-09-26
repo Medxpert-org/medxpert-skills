@@ -1,5 +1,12 @@
 # MedXpert Skills · 医疗器械合规 AI 技能库
 
+![Stars](https://img.shields.io/github/stars/Medxpert-org/medxpert-skills?style=flat-square)
+![License](https://img.shields.io/github/license/Medxpert-org/medxpert-skills?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/Medxpert-org/medxpert-skills/main?style=flat-square)
+![Skills](https://img.shields.io/badge/skills-20-2ea44f?style=flat-square)
+![Platform](https://img.shields.io/badge/platform-WorkBuddy-blueviolet?style=flat-square)
+![Scope](https://img.shields.io/badge/scope-NMPA%20%C2%B7%20FDA%20510(k)%20%C2%B7%20EU%20MDR-0068ff?style=flat-square)
+
 > 医疗器械注册 · 合规 · 出海 · 知识库 · 品牌运营，一站式 WorkBuddy 技能库
 
 ## 这个技能库能帮你做什么
