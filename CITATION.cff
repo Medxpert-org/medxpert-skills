@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "MedXpert Skills · Medical-Device Regulatory AI Skill Collection"
+message: "If you use this software, please cite it using these metadata."
+type: software
+authors:
+  - family-names: Zhao
+    given-names: Xinghua
+    email: zhaoxinghua2022@qq.com
+    orcid: "https://orcid.org/0009-0001-0512-1237"
+    affiliation:
+      name: "Steven Zhao·China（署名口径：赵兴华 / Steven Zhao·China）"
+abstract: "One skill = one folder (SKILL.md) for medical-device regulatory affairs: China NMPA, US FDA, EU MDR, Japan PMDA."
+keywords:
+  - "medical-device"
+  - "regulatory-affairs"
+  - "ai-agents"
+  - "skills"
+repository-code: "https://github.com/Medxpert-org/medxpert-skills"
+license: "Apache-2.0"
